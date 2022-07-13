@@ -17,7 +17,7 @@ public class ArrayStudy1 {
 	  {
 		  System.out.println(name[i]);
 	  }
-
+       //Hi this is second change
 	}
 
 }
